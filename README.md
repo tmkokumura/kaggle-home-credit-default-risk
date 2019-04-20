@@ -3,9 +3,9 @@ This repository includes codes for Kaggle Home Credit Default Risk competition.
 This model reached 0.79565 of area under the ROC curve, and won bronz medal.
 
 # How to use
-## Git checkout
+## Git clone
 ```
-git checkout git@github.com:tmkokumura/kaggle-home-credit-default-risk.git
+git clone git@github.com:tmkokumura/kaggle-home-credit-default-risk.git
 ```
 
 ## Install depending modules
