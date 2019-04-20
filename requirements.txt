@@ -1,0 +1,8 @@
+numpy
+pandas
+tqdm
+tensorflow
+scikit-learn
+keras
+lightgbm
+xgboost
